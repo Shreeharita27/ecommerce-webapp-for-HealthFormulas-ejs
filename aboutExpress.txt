@@ -1,0 +1,10 @@
+ExpressJS is a free and open-source backend web app framework for Node.js, designed to allow developers to build single-page, 
+multi-page, and hybrid web apps and APIs using JavaScript.
+
+Essentially, it is a layer built on top of Node.JS that helps manage routes, middleware, template engines, and static file servers.
+It is minimalistic, unopinionated, and powerful, ensuring that the radical I/O performance of Node is not compromised.
+
+Express is mainly suitable for highly interactive web projects as it allows developers to build quicker and scalable web apps easily.
+
+If you are going to develop a large project that will be supported by a large team of developers, the lack of standardization 
+can be a bottleneck in the productivity of your teams.
